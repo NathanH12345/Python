@@ -1,0 +1,172 @@
+#CrazyLibs
+
+
+
+a = input("Enter a Date: ")
+b = input("Enter a Adjective: ")
+c = input("Enter a game: ")
+f = input("Enter a Song: ")
+g = input("Enter a Adjective: ")
+h = input("Enter a Noun: ")
+i = input("Enter a resturant name: ")
+j = input("Enter a food: ")
+k = input("Enter a Adjective: ")
+
+m = input("Enter a Adjective: ")
+n = input("Enter a Adjective: ")
+o = input("Enter an Adjective:")
+p = input("Enter a food: ")
+q = input("Enter another food: ")
+r = input("Enter a noun: ")
+s = input("Enter a verb: ")
+t = input("Enter a adjective: ")
+print("\n")
+
+print("It was",a, "on a hot summer day. We went to a",b, "beach, where we met a group of people playing",c,". It was by my surprise that they were actually good at the game. As my favorite song" + " (" + f + ") " + "played, I saw a",g,"  ",h," in the distance. It was my first time seeing it! Later, we went to a fancy restaurant called",i,". They had my favorate meal,",j,". The chefs there were ",k," which really elevated the experience. The ",m," waiters were ",n,", and the food was ",o,". We ordered ",p," and",q,". Yum! When we walked outside we saw a group of ",r,"people, and we ",s," with them. The whole trip was really ",t,".")
+
+
+
+
+
+
+# it was __(a date)__ on a hot summer day. We went to a __(Adjective__  beach, where we met a group of __(Noun)___ playing __(Noun1)____. It was by my surprise that they were actually good at the __(Noun2)___. As my favorite song "(SONG NAME)" played, i saw a __(Adjective)__  ___(Noun)____ in the distance. It was my first time seeing it! Later, we went to a fancy restaurant called __(place)._ They had my favorate meal, (food)). The chefs there were _(adjective)_, which really _____ the experience. The _____ waiters were _____, and the food was ______. We ordered ______ and _____. Yum! When we walked outside we saw ______, and we ______ with them. The whole trip was really ______.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+k
+a = 0
+while True: 
+  if kk == "chipolte":
+    a = a + 1 
+    print(a)
